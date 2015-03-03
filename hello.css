@@ -14,12 +14,15 @@ ul {
   width: 9em }
 h1 {
   font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif }
-ul. li {
+        SunSans-Regular, sans-serif;
+	color: black;}
+li {
   background: white;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-right: 1em solid black }
+  border-right: 1em solid black;
+	color: red;  
+  }
 ul. a {
   text-decoration: none }
 a:link {
